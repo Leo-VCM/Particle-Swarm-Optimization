@@ -1,0 +1,2 @@
+Particle Swarm Optimization
+This is a python implementation of the Particle Swarm Optimization algorithm (PSO). In computation intelligence, PSO is a computational method to optimize an objective function. It is a stochastic searching method, which in contrast to many other optimization algorithms, it does not compute the gradient. It is also usually used in problems where the variables take uniform values.
